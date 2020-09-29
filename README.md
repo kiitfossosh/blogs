@@ -1,2 +1,2 @@
-# blogs
-Displays the bolg published in medium on the webpage.
+# Blogs
+Show a list of the blogs published in Medium.
